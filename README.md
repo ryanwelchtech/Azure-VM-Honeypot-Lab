@@ -45,7 +45,7 @@ You can follow along here https://www.youtube.com/watch?v=RoZeVbbZ0o0.
 
 ## Live Map Feed
 
-![Live Map Feed](https://i.imgur.com/euDhzKT.png)
+![Live Map Feed](https://i.imgur.com/MHpk9OZ.png)
 
 ## Conclusion
 
