@@ -45,7 +45,7 @@ You can follow along here https://www.youtube.com/watch?v=RoZeVbbZ0o0.
 
 ## Live Map Feed
 
-![Live Map Feed](https://i.imgur.com/MHpk9OZ.png)
+![Live Map Feed](https://i.imgur.com/oykZI9c.png)
 
 I had to blur out my IP address from the picture for security reasons, but here you can see the number of brute force attempts broken down by country and IP address. India has the most failed login attempts to my VM. It is interesting to see how the numbers update in real-time. I suspect if I leave the exposed VM running for a longer period, I should be able to see more login attempts from more countries that are not currently displayed at the time of finishing this lab. 
 
